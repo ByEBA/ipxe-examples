@@ -1,10 +1,10 @@
 server_url: https://<YOUR_CLUSTER_IP_HERE>:443
-token: token             # Replace with a desired token
+token: denemeYapiyorum18Cankiri!             # Replace with a desired token
 os:
   hostname: node2        # Set a hostname. This can be omitted if DHCP server offers hostnames.
   ssh_authorized_keys:
-  - ssh-rsa ...          # Replace with your public key
-  password: p@ssword     # Replace with a your password
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJlCDzzE9Klyhv+rsgB0Xv+0RLmZYQOWBxbXApuLMe6Q erebubekir@hotmail.com          # Replace with your public key
+  password: 12qwe!!123qwe     # Replace with a your password
   ntp_servers:
   - 0.suse.pool.ntp.org
   - 1.suse.pool.ntp.org
